@@ -3,7 +3,7 @@ BookStore WebApi
 
 
 1.Change the Connection String in file appsettings.Development.json
-2. Update-DataBase
+2. Run this command in Console Manager (Update-DataBase)
 
 
 Api Url To Get Result
